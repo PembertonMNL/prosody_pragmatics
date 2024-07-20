@@ -1,4 +1,6 @@
 # prosody_pragmatics
+[![DOI](https://zenodo.org/badge/735689934.svg)](https://zenodo.org/doi/10.5281/zenodo.12788831)
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
